@@ -26,4 +26,8 @@ Calculates period of time through which an object fell by applying a physical fo
 
 ## Pikachu Game
 
-Creation of a very simple java game with a Pokemon theme. Move Pikachu towards water pokemons and away from the earth pokemon trainer to win.
+Creation of a very simple java game with a Pokemon theme. Move Pikachu towards water pokemons and away from the Ground trainer to win.
+
+## Random Battleship
+
+A non hard-coded recreation of the classic Battleship game. The game now generates a random board every time the game is restarted.
