@@ -30,4 +30,4 @@ Creation of a very simple java game with a Pokemon theme. Move Pikachu towards w
 
 ## Random Battleship
 
-A non hard-coded recreation of the classic Battleship game. The game now generates a random board every time the game is restarted.
+A non hard-coded recreation of the classic Battleship game. The game now generates a random board every time the it is restarted.
